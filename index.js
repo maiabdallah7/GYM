@@ -7,7 +7,7 @@ class Student{
 let Student1 = new Student();
 Student1.name = 'Mai'
 Student1.age = 22
-Student1.phone = 1050226242
+Student1.phone = 111111111
 
 console.log(Student1
     
